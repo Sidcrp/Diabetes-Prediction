@@ -1,9 +1,9 @@
 # Python-Final-Project
 
-Project Name:  Diabetes Prediction using Machine Learning Algorithms
+Project Name:  Diabetes Prediction using Machine Learning and CNN
 PROJECT DESCRIPTION 
 
-The goal of the "Diabetes Prediction using Machine Learning" project is to create a reliable and precise predictive model for calculating an individual's probability of developing diabetes based on their health and medical information. Early diagnosis can dramatically improve patient outcomes and overall healthcare management for diabetes, a common and serious health condition. This study offers a useful example of utilizing machine learning for healthcare applications in addition to offering a workable method for early diabetes identification. It highlights how crucial data quality, model accuracy, interpretability, and ethical considerations are when applying AI to the field of medicine.
+The goal of the "Diabetes Prediction using Machine Learning and CNN" project is to create a reliable and precise predictive model for calculating an individual's probability of developing diabetes based on their health and medical information. Early diagnosis can dramatically improve patient outcomes and overall healthcare management for diabetes, a common and serious health condition. This study offers a useful example of utilizing machine learning for healthcare applications in addition to offering a workable method for early diabetes identification. It highlights how crucial data quality, model accuracy, interpretability, and ethical considerations are when applying AI to the field of medicine.
 
 In this project, I am going to use ML algorithms such as KNN, Decision Tree, XG Boost, Random Forest, and CNN to provide the accuracy provided by these algorithms and show plots of comparison of data while working with each ML algorithm using Matplotlib and Seaborn. I have done a general data analysis and visualization of the dataset initially without any algorithm implementation as well.
 
