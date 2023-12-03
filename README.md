@@ -9,9 +9,6 @@ In this project, I am going to use ML algorithms such as KNN, Decision Tree, XG 
 
 The following components could be included in the deliverables for the project "Diabetes Prediction using Machine Learning":
 
-Report on Project:
-A thorough project report that offers a summary of the project's goals, objectives, findings, and results
-
 Codebase:
 The collection of scripts, source code, and notebooks used for the construction and testing of models and the preprocessing of data.
 
@@ -24,7 +21,7 @@ Provide the accuracy of the model earned through various machine learning algori
 DATASET USED
 The dataset from the National Institute of Diabetes and Digestive and Kidney Diseases is provided on Kaggle Website.
 
-Expected Tools (Cloud DBs, Hardware, & Python Libraries to be used.
+Tools Used: 
 •	Numpy
 •	Pandas
 •	Scikit learn
