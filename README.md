@@ -1,4 +1,4 @@
-# Python-Final-Project
+
 
 Project Name:  Diabetes Prediction using Machine Learning and CNN
 PROJECT DESCRIPTION 
